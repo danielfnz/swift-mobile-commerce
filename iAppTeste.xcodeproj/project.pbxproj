@@ -12,6 +12,17 @@
 		57574B1C2233FA4E007DD048 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57574B1A2233FA4E007DD048 /* Main.storyboard */; };
 		57574B1E2233FA4E007DD048 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57574B1D2233FA4E007DD048 /* Assets.xcassets */; };
 		57574B212233FA4E007DD048 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57574B1F2233FA4E007DD048 /* LaunchScreen.storyboard */; };
+		57574B29223409B6007DD048 /* SegundaTelaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57574B28223409B6007DD048 /* SegundaTelaViewController.swift */; };
+		57574B2B2234287E007DD048 /* TerceiraTelaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57574B2A2234287E007DD048 /* TerceiraTelaViewController.swift */; };
+		57574B2D2234384E007DD048 /* QuartaTelaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57574B2C2234384E007DD048 /* QuartaTelaViewController.swift */; };
+		57574B3122344B05007DD048 /* QuintaTelaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57574B3022344B05007DD048 /* QuintaTelaViewController.swift */; };
+		577E62772245A0CF00972CDF /* CardapioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577E62762245A0CF00972CDF /* CardapioViewController.swift */; };
+		577E62792245A30300972CDF /* BaseDados.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577E62782245A30300972CDF /* BaseDados.swift */; };
+		577E627B2245A79E00972CDF /* CellController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577E627A2245A79E00972CDF /* CellController.swift */; };
+		5796C5732246A62E00FCD775 /* DetalheCardapioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5796C5722246A62E00FCD775 /* DetalheCardapioViewController.swift */; };
+		57C196252246C2A400B60F49 /* MapController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57C196242246C2A400B60F49 /* MapController.swift */; };
+		57E8DA4122580B020076AD49 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E8DA4022580B020076AD49 /* LoginViewController.swift */; };
+		57E8DA43225813F60076AD49 /* PerfilViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E8DA42225813F60076AD49 /* PerfilViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,17 @@
 		57574B1D2233FA4E007DD048 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57574B202233FA4E007DD048 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57574B222233FA4E007DD048 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57574B28223409B6007DD048 /* SegundaTelaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegundaTelaViewController.swift; sourceTree = "<group>"; };
+		57574B2A2234287E007DD048 /* TerceiraTelaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TerceiraTelaViewController.swift; sourceTree = "<group>"; };
+		57574B2C2234384E007DD048 /* QuartaTelaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuartaTelaViewController.swift; sourceTree = "<group>"; };
+		57574B3022344B05007DD048 /* QuintaTelaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuintaTelaViewController.swift; sourceTree = "<group>"; };
+		577E62762245A0CF00972CDF /* CardapioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardapioViewController.swift; sourceTree = "<group>"; };
+		577E62782245A30300972CDF /* BaseDados.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseDados.swift; sourceTree = "<group>"; };
+		577E627A2245A79E00972CDF /* CellController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellController.swift; sourceTree = "<group>"; };
+		5796C5722246A62E00FCD775 /* DetalheCardapioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalheCardapioViewController.swift; sourceTree = "<group>"; };
+		57C196242246C2A400B60F49 /* MapController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MapController.swift; path = ../../iAppTeste2/iAppTeste2/MapController.swift; sourceTree = "<group>"; };
+		57E8DA4022580B020076AD49 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		57E8DA42225813F60076AD49 /* PerfilViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfilViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +78,17 @@
 			children = (
 				57574B162233FA4E007DD048 /* AppDelegate.swift */,
 				57574B182233FA4E007DD048 /* ViewController.swift */,
+				57574B28223409B6007DD048 /* SegundaTelaViewController.swift */,
+				57574B2A2234287E007DD048 /* TerceiraTelaViewController.swift */,
+				57574B2C2234384E007DD048 /* QuartaTelaViewController.swift */,
+				57574B3022344B05007DD048 /* QuintaTelaViewController.swift */,
+				577E62762245A0CF00972CDF /* CardapioViewController.swift */,
+				5796C5722246A62E00FCD775 /* DetalheCardapioViewController.swift */,
+				577E627A2245A79E00972CDF /* CellController.swift */,
+				577E62782245A30300972CDF /* BaseDados.swift */,
+				57C196242246C2A400B60F49 /* MapController.swift */,
+				57E8DA4022580B020076AD49 /* LoginViewController.swift */,
+				57E8DA42225813F60076AD49 /* PerfilViewController.swift */,
 				57574B1A2233FA4E007DD048 /* Main.storyboard */,
 				57574B1D2233FA4E007DD048 /* Assets.xcassets */,
 				57574B1F2233FA4E007DD048 /* LaunchScreen.storyboard */,
@@ -136,8 +169,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57E8DA4122580B020076AD49 /* LoginViewController.swift in Sources */,
+				577E627B2245A79E00972CDF /* CellController.swift in Sources */,
+				577E62792245A30300972CDF /* BaseDados.swift in Sources */,
+				57574B2D2234384E007DD048 /* QuartaTelaViewController.swift in Sources */,
+				57E8DA43225813F60076AD49 /* PerfilViewController.swift in Sources */,
+				57C196252246C2A400B60F49 /* MapController.swift in Sources */,
 				57574B192233FA4E007DD048 /* ViewController.swift in Sources */,
+				57574B3122344B05007DD048 /* QuintaTelaViewController.swift in Sources */,
+				57574B29223409B6007DD048 /* SegundaTelaViewController.swift in Sources */,
+				577E62772245A0CF00972CDF /* CardapioViewController.swift in Sources */,
+				57574B2B2234287E007DD048 /* TerceiraTelaViewController.swift in Sources */,
 				57574B172233FA4E007DD048 /* AppDelegate.swift in Sources */,
+				5796C5732246A62E00FCD775 /* DetalheCardapioViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
