@@ -7,7 +7,7 @@ class LoginViewController: UIViewController {
     @IBOutlet weak var tfLogin: UITextField!
     @IBOutlet weak var tfSenha: UITextField!
     @IBAction func btnEntrar(_ sender: UIButton) {
-        if(tfLogin.text == "asdf" && tfSenha.text == "1234"){
+        if(tfLogin.text == "user" && tfSenha.text == "user"){
             let viewControllerTab = storyboard!.instantiateViewController(withIdentifier: "stryIdTabBar") as! UITabBarController
             self.present(viewControllerTab, animated: true, completion: nil)
         } else {

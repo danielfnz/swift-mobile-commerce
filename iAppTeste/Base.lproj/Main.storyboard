@@ -300,7 +300,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" red="0.46315851930000002" green="0.46887773789999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="1" green="0.51637099279999998" blue="0.31473977149999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="8wq-KG-I8q"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Item" id="RNO-c6-p0F"/>

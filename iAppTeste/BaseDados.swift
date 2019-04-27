@@ -3,11 +3,12 @@ import Foundation
 
 class BaseDados {
     // Atributos da classe
-    var cardapio = ["Pizzas", "Bebidas", "Sobremesas"]
+    //var cardapio = ["Pizzas", "Bebidas", "Sobremesas"]
+    var cardapio = ["Verduras", "Legumes", "Frutas"]
     
-    var itensCardapio = [["Calabresa", "California", "Mussarela", "Portuguesa", "Quatro Queijos"],
-                         ["Cervejas", "Vinhos", "Sucos"],
-                         ["Salada de Frutas", "Sorvete", "Torta Doce"]]
+    var itensCardapio = [["Alface", "Couve", "Agriao", "Espinafre", "Rucula"],
+                         ["Abobora Japonesa", "Tomate", "Batata Doce", "Berinjela", "Cebola"],
+                         ["Banana", "Melancia", "Abacaxi", "Laranja", "Maça"]]
     
     func retornaSecao(numero: Int) -> String {
         return cardapio[numero]
