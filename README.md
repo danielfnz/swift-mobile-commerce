@@ -7,3 +7,10 @@ Aplicativo IOS para vendas de produtos organicos, o qual foi desenvolvido na dis
 * Listagem de Frutas, verduras e Legumes.
 * Detalhes de produtos
 
+
+ ![Camera Logo](/screen_1.png)
+ ![Camera Logo](/screen_2.png)
+ ![Camera Logo](/screen_3.png)
+ ![Camera Logo](/screen_4.png)
+ ![Camera Logo](/screen_5.png)
+ 
