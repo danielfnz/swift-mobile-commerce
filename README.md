@@ -13,5 +13,4 @@ Aplicativo IOS para vendas de produtos organicos, o qual foi desenvolvido na dis
  ![Camera Logo](/screen_2.png)
  ![Camera Logo](/screen_3.png)
  ![Camera Logo](/screen_4.png)
- ![Camera Logo](/screen_5.png)
  
