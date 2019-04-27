@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:iAppTeste.xcodeproj">
+      location = "self:/Users/diegocosta/Desktop/swift-mobile-commerce/iOrganics.xcodeproj">
    </FileRef>
 </Workspace>

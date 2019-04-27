@@ -20,13 +20,12 @@
 		577E62792245A30300972CDF /* BaseDados.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577E62782245A30300972CDF /* BaseDados.swift */; };
 		577E627B2245A79E00972CDF /* CellController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577E627A2245A79E00972CDF /* CellController.swift */; };
 		5796C5732246A62E00FCD775 /* DetalheCardapioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5796C5722246A62E00FCD775 /* DetalheCardapioViewController.swift */; };
-		57C196252246C2A400B60F49 /* MapController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57C196242246C2A400B60F49 /* MapController.swift */; };
 		57E8DA4122580B020076AD49 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E8DA4022580B020076AD49 /* LoginViewController.swift */; };
 		57E8DA43225813F60076AD49 /* PerfilViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E8DA42225813F60076AD49 /* PerfilViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		57574B132233FA4E007DD048 /* iAppTeste.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iAppTeste.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		57574B132233FA4E007DD048 /* iOrganics.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOrganics.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57574B162233FA4E007DD048 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		57574B182233FA4E007DD048 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		57574B1B2233FA4E007DD048 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -41,7 +40,6 @@
 		577E62782245A30300972CDF /* BaseDados.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseDados.swift; sourceTree = "<group>"; };
 		577E627A2245A79E00972CDF /* CellController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellController.swift; sourceTree = "<group>"; };
 		5796C5722246A62E00FCD775 /* DetalheCardapioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalheCardapioViewController.swift; sourceTree = "<group>"; };
-		57C196242246C2A400B60F49 /* MapController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MapController.swift; path = ../../iAppTeste2/iAppTeste2/MapController.swift; sourceTree = "<group>"; };
 		57E8DA4022580B020076AD49 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		57E8DA42225813F60076AD49 /* PerfilViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfilViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -68,7 +66,7 @@
 		57574B142233FA4E007DD048 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				57574B132233FA4E007DD048 /* iAppTeste.app */,
+				57574B132233FA4E007DD048 /* iOrganics.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -86,7 +84,6 @@
 				5796C5722246A62E00FCD775 /* DetalheCardapioViewController.swift */,
 				577E627A2245A79E00972CDF /* CellController.swift */,
 				577E62782245A30300972CDF /* BaseDados.swift */,
-				57C196242246C2A400B60F49 /* MapController.swift */,
 				57E8DA4022580B020076AD49 /* LoginViewController.swift */,
 				57E8DA42225813F60076AD49 /* PerfilViewController.swift */,
 				57574B1A2233FA4E007DD048 /* Main.storyboard */,
@@ -100,9 +97,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		57574B122233FA4E007DD048 /* iAppTeste */ = {
+		57574B122233FA4E007DD048 /* iOrganics */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 57574B252233FA4E007DD048 /* Build configuration list for PBXNativeTarget "iAppTeste" */;
+			buildConfigurationList = 57574B252233FA4E007DD048 /* Build configuration list for PBXNativeTarget "iOrganics" */;
 			buildPhases = (
 				57574B0F2233FA4E007DD048 /* Sources */,
 				57574B102233FA4E007DD048 /* Frameworks */,
@@ -112,9 +109,9 @@
 			);
 			dependencies = (
 			);
-			name = iAppTeste;
+			name = iOrganics;
 			productName = iAppTeste;
-			productReference = 57574B132233FA4E007DD048 /* iAppTeste.app */;
+			productReference = 57574B132233FA4E007DD048 /* iOrganics.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -125,7 +122,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
-				ORGANIZATIONNAME = fernando;
+				ORGANIZATIONNAME = "Diego Costa";
 				TargetAttributes = {
 					57574B122233FA4E007DD048 = {
 						CreatedOnToolsVersion = 9.2;
@@ -133,7 +130,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 57574B0E2233FA4E007DD048 /* Build configuration list for PBXProject "iAppTeste" */;
+			buildConfigurationList = 57574B0E2233FA4E007DD048 /* Build configuration list for PBXProject "iOrganics" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -146,7 +143,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				57574B122233FA4E007DD048 /* iAppTeste */,
+				57574B122233FA4E007DD048 /* iOrganics */,
 			);
 		};
 /* End PBXProject section */
@@ -174,7 +171,6 @@
 				577E62792245A30300972CDF /* BaseDados.swift in Sources */,
 				57574B2D2234384E007DD048 /* QuartaTelaViewController.swift in Sources */,
 				57E8DA43225813F60076AD49 /* PerfilViewController.swift in Sources */,
-				57C196252246C2A400B60F49 /* MapController.swift in Sources */,
 				57574B192233FA4E007DD048 /* ViewController.swift in Sources */,
 				57574B3122344B05007DD048 /* QuintaTelaViewController.swift in Sources */,
 				57574B29223409B6007DD048 /* SegundaTelaViewController.swift in Sources */,
@@ -322,7 +318,7 @@
 				DEVELOPMENT_TEAM = PRV938UX4M;
 				INFOPLIST_FILE = iAppTeste/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = br.ufg.pos.ios.iAppTeste;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.dgcosta;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -337,7 +333,7 @@
 				DEVELOPMENT_TEAM = PRV938UX4M;
 				INFOPLIST_FILE = iAppTeste/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = br.ufg.pos.ios.iAppTeste;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.dgcosta;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -347,7 +343,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		57574B0E2233FA4E007DD048 /* Build configuration list for PBXProject "iAppTeste" */ = {
+		57574B0E2233FA4E007DD048 /* Build configuration list for PBXProject "iOrganics" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				57574B232233FA4E007DD048 /* Debug */,
@@ -356,7 +352,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		57574B252233FA4E007DD048 /* Build configuration list for PBXNativeTarget "iAppTeste" */ = {
+		57574B252233FA4E007DD048 /* Build configuration list for PBXNativeTarget "iOrganics" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				57574B262233FA4E007DD048 /* Debug */,

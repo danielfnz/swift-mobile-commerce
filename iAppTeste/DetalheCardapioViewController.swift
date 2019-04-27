@@ -1,10 +1,4 @@
-//
-//  DetalheCardapioViewController.swift
-//  iAppTeste
-//
-//  Created by Aluno on 23/03/2019.
-//  Copyright © 2019 fernando. All rights reserved.
-//
+
 
 import UIKit
 
