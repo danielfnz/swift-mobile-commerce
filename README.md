@@ -4,7 +4,8 @@ Aplicativo IOS para vendas de produtos organicos, o qual foi desenvolvido na dis
 
 ## Principais Características
 
-* Listagem de Frutas, verduras e Legumes.
+* Autenticacao com Login/Logout
+* Listagem de Frutas, verduras e Legumes
 * Detalhes de produtos
 
 
